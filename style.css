@@ -1,4 +1,9 @@
-                                                                                                                                                                          .kartu-profil {
+                 #kotak-pesan {
+    height: 150px;
+    background-color: lightyellow;
+    margin: 15px;
+    border: solid 1px red;
+}                                                                                                                                                         .kartu-profil {
     width: 300px;
     background-color: lightgray;
     padding: 20px;
